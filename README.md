@@ -5,19 +5,19 @@
 
 ---
 
-
-```
-# ESP32 Bluetooth Spoofing Device
-
-This project turns your ESP32 into a Bluetooth spoofing device that changes its advertised name every second. It can be used for testing and educational purposes. The device will simulate various Bluetooth devices by continuously changing its name, creating confusion or helping in specific development tasks.
-
----
-
 ### 🎥 **Demo Video**
 
 Check out the demo of this project in action! 🎬  
 [![ESP32 Bluetooth Spoofing Demo](https://img.youtube.com/vi/OZyMlJlfexw/0.jpg)](https://youtube.com/shorts/OZyMlJlfexw?si=RctFkI8EEgNRim4e)  
 Click the thumbnail or follow [this link](https://youtube.com/shorts/OZyMlJlfexw?si=RctFkI8EEgNRim4e) to watch.
+
+---
+
+
+```
+# ESP32 Bluetooth Spoofing Device
+
+This project turns your ESP32 into a Bluetooth spoofing device that changes its advertised name every second. It can be used for testing and educational purposes. The device will simulate various Bluetooth devices by continuously changing its name, creating confusion or helping in specific development tasks.
 
 ---
 
