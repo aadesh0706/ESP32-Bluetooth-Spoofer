@@ -16,7 +16,7 @@ This project turns your ESP32 into a Bluetooth spoofing device that changes its 
 ### 🎥 **Demo Video**
 
 Check out the demo of this project in action! 🎬  
-[![ESP32 Bluetooth Spoofing Device](https://img.youtube.com/vi/OZyMlJlfexw/0.jpg)](https://youtube.com/shorts/OZyMlJlfexw?si=RctFkI8EEgNRim4e)  
+[![ESP32 Bluetooth Spoofing Demo](https://img.youtube.com/vi/OZyMlJlfexw/0.jpg)](https://youtube.com/shorts/OZyMlJlfexw?si=RctFkI8EEgNRim4e)  
 Click the thumbnail or follow [this link](https://youtube.com/shorts/OZyMlJlfexw?si=RctFkI8EEgNRim4e) to watch.
 
 ---
