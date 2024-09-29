@@ -1,10 +1,16 @@
-```markdown
+![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
+*Active since*: `September 2024`
+
+**Account From:** `September 2020`
+
+---
+
+
+```
 # ESP32 Bluetooth Spoofing Device
 
 This project turns your ESP32 into a Bluetooth spoofing device that changes its advertised name every second. It can be used for testing and educational purposes. The device will simulate various Bluetooth devices by continuously changing its name, creating confusion or helping in specific development tasks.
 
-![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)
----
 ## Features:
 - Changes Bluetooth device name every second.
 - Uses `BluetoothSerial` library to simulate different devices.
